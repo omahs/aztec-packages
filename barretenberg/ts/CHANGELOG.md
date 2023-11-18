@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.1](https://github.com/AztecProtocol/aztec-packages/compare/barretenberg.js-v0.15.0...barretenberg.js-v0.15.1) (2023-11-18)
+
+
+### Miscellaneous
+
+* All hashes in ts ([#3333](https://github.com/AztecProtocol/aztec-packages/issues/3333)) ([6307e12](https://github.com/AztecProtocol/aztec-packages/commit/6307e129770af7791dc5a477859b75ebb112a653))
+
 ## [0.15.0](https://github.com/AztecProtocol/aztec-packages/compare/barretenberg.js-v0.14.2...barretenberg.js-v0.15.0) (2023-11-16)
 
 
