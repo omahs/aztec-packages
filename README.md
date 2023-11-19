@@ -48,7 +48,7 @@ cd project
 source /tmp/.bash_env*
 {start testing your CI commands here}
 ```
-This provide an interactive environment for debugging the CI test.
+This provides an interactive environment for debugging the CI test.
 
 ## Debugging
 
